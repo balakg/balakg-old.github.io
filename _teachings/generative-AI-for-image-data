@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Generative AI for Image Data
-description: TBD
-img: assets/img/2.jpg
-importance: 2
+title: Intro. to Computer Vision
+description: Undergraduate and graduate class covering basic to advanced concepts in computer vision. Topics include image formation and cameras, signal processing, mid-level vision, and high-level vision using deep neural networks, and recent foundation models.
+img: assets/img/1.jpg
+importance: 1
 category: Undergraduate
-external_repository: https://computervision.rice.edu/
+redirect: https://computervision.rice.edu/
 ---
