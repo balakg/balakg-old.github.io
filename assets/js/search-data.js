@@ -438,12 +438,12 @@ ninja.data = [{
           title: 'Generative AI for Image Data',
           description: "TBD",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/generative-AI-for-image-data/";
+              window.location.href = "/teaching/generative-AI-for-image-data/";
             },},{id: "teachings-intro-to-computer-vision",
           title: 'Intro. to Computer Vision',
           description: "Undergraduate and graduate class covering basic to advanced concepts in computer vision. Topics include image formation and cameras, signal processing, mid-level vision, and high-level vision using deep neural networks, and recent foundation models.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/intro-to-computer-vision/";
+              window.location.href = "/teaching/intro-to-computer-vision/";
             },},{
         id: 'social-email',
         title: 'email',
