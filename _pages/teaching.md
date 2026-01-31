@@ -1,21 +1,15 @@
 ---
 layout: page
-title: teaching
 permalink: /teaching/
-description: Courses I have taught or am currently teaching.
+title: teaching
+description: Course materials, schedules, and resources for classes taught.
 nav: true
-nav_order: 4
+nav_order: 6
+calendar: true
 ---
 
-<div class="projects">
-  {% if site.teaching %}
-    <div class="grid">
-      {% assign teaching = site.teaching | sort: 'importance' %}
-      {% for course in teaching %}
-        {% include projects.html %}
-      {% endfor %}
-    </div>
-  {% else %}
-    <p>No courses listed yet.</p>
-  {% endif %}
-</div>
+This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
+
+{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+
+{% include courses.liquid %}
