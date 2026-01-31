@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "",
+          description: "Courses I have taught or am currently teaching.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -434,16 +434,16 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "teachings-intro-vision",
-          title: 'Intro Vision',
-          description: "",
+            },},{id: "teachings-generative-ai-for-image-data",
+          title: 'Generative AI for Image Data',
+          description: "TBD",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/intro-vision/";
-            },},{id: "teachings-neural-synthesis",
-          title: 'Neural Synthesis',
-          description: "",
+              window.location.href = "/teachings/generative-AI-for-image-data/";
+            },},{id: "teachings-intro-to-computer-vision",
+          title: 'Intro. to Computer Vision',
+          description: "Undergraduate and graduate class covering basic to advanced concepts in computer vision. Topics include image formation and cameras, signal processing, mid-level vision, and high-level vision using deep neural networks, and recent foundation models.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/neural-synthesis/";
+              window.location.href = "/teachings/intro-to-computer-vision/";
             },},{
         id: 'social-email',
         title: 'email',
