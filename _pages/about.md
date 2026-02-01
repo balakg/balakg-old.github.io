@@ -28,6 +28,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an Assistant Professor in the <a href="https://eceweb.rice.edu/">Electrical and Computer Engineering (ECE)</a> department at Rice University working in computer vision. My group advances the efficiency and reliability of signal representation and generation algorithms, particularly for real-world applications such as medical imaging, remote sensing, and 3D scene reconstruction. I am also part of the <a href="https://dhi.rice.edu/">Rice Digital Health Initiative</a> and <a href="https://www.hmrdhi.org/">Houston Methodist-Rice Digital Health Institute</a>.
+I am an Assistant Professor in the <a href="https://eceweb.rice.edu/">Electrical and Computer Engineering (ECE)</a> department at Rice University working in computer vision. My group advances the efficiency and reliability of signal representation and generation algorithms, particularly for real-world applications such as medical imaging, environmental monitoring, and 3D scene reconstruction. I am also part of the <a href="https://dhi.rice.edu/">Rice Digital Health Initiative</a> and <a href="https://www.hmrdhi.org/">Houston Methodist-Rice Digital Health Institute</a>.
 
 I completed my PhD at MIT CSAIL advised by John Guttag and Frédo Durand, and my postdoctoral research under Bill Freeman. I completed my B.S. degrees in Computer Science and Computer Engineering at the University of Michigan, Ann Arbor.
