@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-01-30'
+  last_updated: '2026-02-02'
 papers:
   8rZyuc8AAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -22,7 +22,7 @@ papers:
     title: 'FastAvatar: Instant 3D Gaussian Splatting for Faces from Single Unconstrained Poses'
     year: '2025'
   8rZyuc8AAAAJ:3fE2CSJIrl8C:
-    citations: 651
+    citations: 654
     title: Data augmentation using learned transformations for one-shot medical image segmentation
     year: '2019'
   8rZyuc8AAAAJ:3s1wT3WcHBgC:
@@ -38,7 +38,7 @@ papers:
     title: 'Difr3ct: Latent diffusion for probabilistic 3d ct reconstruction from few planar x-rays'
     year: '2024'
   8rZyuc8AAAAJ:4TOpqqG69KYC:
-    citations: 297
+    citations: 298
     title: 'Wire: Wavelet implicit neural representations'
     year: '2023'
   8rZyuc8AAAAJ:5nxA0vEk-isC:
@@ -50,7 +50,7 @@ papers:
     title: Metric-Guided Conformal Bounds for Probabilistic Image Reconstruction
     year: '2025'
   8rZyuc8AAAAJ:7PzlFSSx8tAC:
-    citations: 33
+    citations: 32
     title: 'Benchmarking algorithmic bias in face recognition: An experimental approach using synthetic faces and human evaluation'
     year: '2023'
   8rZyuc8AAAAJ:8k81kl-MbHgC:
@@ -74,7 +74,7 @@ papers:
     title: Post-Hurricane Debris Segmentation Using Fine-Tuned Foundational Vision Models
     year: '2025'
   8rZyuc8AAAAJ:HDshCWvjkbEC:
-    citations: 21
+    citations: 22
     title: "Artificial intelligence uncertainty quantification in radiotherapy applications\u2212 A scoping review"
     year: '2024'
   8rZyuc8AAAAJ:HoB7MX3m0LUC:
@@ -98,7 +98,7 @@ papers:
     title: 'ISLAND: Informing Brightness and Surface Temperature Through a Land Cover-based Interpolator'
     year: '2023'
   8rZyuc8AAAAJ:LkGwnXOMwfcC:
-    citations: 979
+    citations: 984
     title: An unsupervised learning model for deformable medical image registration
     year: '2018'
   8rZyuc8AAAAJ:M05iB0D1s5AC:
@@ -114,7 +114,7 @@ papers:
     title: When and why test-time augmentation works
     year: '2020'
   8rZyuc8AAAAJ:MXK_kJrjxJIC:
-    citations: 2787
+    citations: 2792
     title: 'Voxelmorph: a learning framework for deformable medical image registration'
     year: '2019'
   8rZyuc8AAAAJ:NMxIlDl6LWMC:
@@ -138,7 +138,7 @@ papers:
     title: 'GIQ: Benchmarking 3D Geometric Reasoning of Vision Foundation Models with Simulated and Real Polyhedra'
     year: '2025'
   8rZyuc8AAAAJ:RHpTSmoSYBkC:
-    citations: 15
+    citations: 16
     title: 'Fairness and Bias Mitigation in Computer Vision: A Survey'
     year: '2024'
   8rZyuc8AAAAJ:RYcK_YlVTxYC:
@@ -202,7 +202,7 @@ papers:
     title: Better aggregation in test-time augmentation
     year: '2021'
   8rZyuc8AAAAJ:_FxGoFyzp5QC:
-    citations: 910
+    citations: 909
     title: Detecting pulse from head motions in video
     year: '2013'
   8rZyuc8AAAAJ:_Qo2XoVZTnwC:
@@ -228,7 +228,7 @@ papers:
   8rZyuc8AAAAJ:e5wmG9Sq2KIC:
     citations: 25
     title: Taming data and transformers for audio generation
-    year: '2024'
+    year: '2026'
   8rZyuc8AAAAJ:eQOLeE2rZwMC:
     citations: 27
     title: A video-based method for automatically rating ataxia
@@ -258,7 +258,7 @@ papers:
     title: Learning transferable features for implicit neural representations
     year: '2024'
   8rZyuc8AAAAJ:kNdYIx-mwKoC:
-    citations: 985
+    citations: 988
     title: Unsupervised learning of probabilistic diffeomorphic registration for images and surfaces
     year: '2019'
   8rZyuc8AAAAJ:k_IJM867U9cC:
