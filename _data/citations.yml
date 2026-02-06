@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-02-02'
+  last_updated: '2026-02-06'
 papers:
   8rZyuc8AAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -38,7 +38,7 @@ papers:
     title: 'Difr3ct: Latent diffusion for probabilistic 3d ct reconstruction from few planar x-rays'
     year: '2024'
   8rZyuc8AAAAJ:4TOpqqG69KYC:
-    citations: 298
+    citations: 299
     title: 'Wire: Wavelet implicit neural representations'
     year: '2023'
   8rZyuc8AAAAJ:5nxA0vEk-isC:
@@ -74,7 +74,7 @@ papers:
     title: Post-Hurricane Debris Segmentation Using Fine-Tuned Foundational Vision Models
     year: '2025'
   8rZyuc8AAAAJ:HDshCWvjkbEC:
-    citations: 22
+    citations: 21
     title: "Artificial intelligence uncertainty quantification in radiotherapy applications\u2212 A scoping review"
     year: '2024'
   8rZyuc8AAAAJ:HoB7MX3m0LUC:
@@ -114,7 +114,7 @@ papers:
     title: When and why test-time augmentation works
     year: '2020'
   8rZyuc8AAAAJ:MXK_kJrjxJIC:
-    citations: 2792
+    citations: 2797
     title: 'Voxelmorph: a learning framework for deformable medical image registration'
     year: '2019'
   8rZyuc8AAAAJ:NMxIlDl6LWMC:
@@ -138,7 +138,7 @@ papers:
     title: 'GIQ: Benchmarking 3D Geometric Reasoning of Vision Foundation Models with Simulated and Real Polyhedra'
     year: '2025'
   8rZyuc8AAAAJ:RHpTSmoSYBkC:
-    citations: 16
+    citations: 17
     title: 'Fairness and Bias Mitigation in Computer Vision: A Survey'
     year: '2024'
   8rZyuc8AAAAJ:RYcK_YlVTxYC:
