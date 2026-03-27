@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-03-27'
 papers:
   8rZyuc8AAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -22,7 +22,7 @@ papers:
     title: 'FastAvatar: Instant 3D Gaussian Splatting for Faces from Single Unconstrained Poses'
     year: '2025'
   8rZyuc8AAAAJ:3fE2CSJIrl8C:
-    citations: 669
+    citations: 670
     title: Data augmentation using learned transformations for one-shot medical image segmentation
     year: '2019'
   8rZyuc8AAAAJ:3s1wT3WcHBgC:
@@ -42,7 +42,7 @@ papers:
     title: Efficient Conformal Volumetry for Template-Based Segmentation
     year: '2026'
   8rZyuc8AAAAJ:4TOpqqG69KYC:
-    citations: 324
+    citations: 328
     title: 'Wire: Wavelet implicit neural representations'
     year: '2023'
   8rZyuc8AAAAJ:5nxA0vEk-isC:
@@ -78,7 +78,7 @@ papers:
     title: Post-Hurricane Debris Segmentation Using Fine-Tuned Foundational Vision Models
     year: '2025'
   8rZyuc8AAAAJ:HDshCWvjkbEC:
-    citations: 24
+    citations: 26
     title: "Artificial intelligence uncertainty quantification in radiotherapy applications\u2212 a scoping review"
     year: '2024'
   8rZyuc8AAAAJ:HoB7MX3m0LUC:
@@ -90,7 +90,7 @@ papers:
     title: Improving denoising diffusion probabilistic models via exploiting shared representations
     year: '2023'
   8rZyuc8AAAAJ:IjCSPb-OGe4C:
-    citations: 78
+    citations: 79
     title: 'Leveling down in computer vision: Pareto inefficiencies in fair deep classifiers'
     year: '2022'
   8rZyuc8AAAAJ:JV2RwH3_ST0C:
@@ -102,7 +102,7 @@ papers:
     title: 'ISLAND: Informing Brightness and Surface Temperature Through a Land Cover-based Interpolator'
     year: '2023'
   8rZyuc8AAAAJ:LkGwnXOMwfcC:
-    citations: 996
+    citations: 997
     title: An unsupervised learning model for deformable medical image registration
     year: '2018'
   8rZyuc8AAAAJ:M05iB0D1s5AC:
@@ -118,7 +118,7 @@ papers:
     title: When and why test-time augmentation works
     year: '2020'
   8rZyuc8AAAAJ:MXK_kJrjxJIC:
-    citations: 2920
+    citations: 2932
     title: 'Voxelmorph: a learning framework for deformable medical image registration'
     year: '2019'
   8rZyuc8AAAAJ:NMxIlDl6LWMC:
@@ -162,7 +162,7 @@ papers:
     title: 'Gelda: A generative language annotation framework to reveal visual biases in image generators'
     year: '2024'
   8rZyuc8AAAAJ:TQgYirikUcIC:
-    citations: 38
+    citations: 40
     title: 'Elasticdiffusion: Training-free arbitrary size image generation through global-local content separation'
     year: '2024'
   8rZyuc8AAAAJ:Tyk-4Ss8FVUC:
@@ -202,11 +202,11 @@ papers:
     title: Generation of synthetic image data with varied attributes
     year: '2023'
   8rZyuc8AAAAJ:Zph67rFs4hoC:
-    citations: 253
+    citations: 255
     title: Better aggregation in test-time augmentation
     year: '2021'
   8rZyuc8AAAAJ:_FxGoFyzp5QC:
-    citations: 900
+    citations: 904
     title: Detecting pulse from head motions in video
     year: '2013'
   8rZyuc8AAAAJ:_Qo2XoVZTnwC:
@@ -222,11 +222,15 @@ papers:
     title: 'Bias for action: Video implicit neural representations with bias modulation'
     year: '2025'
   8rZyuc8AAAAJ:d1gkVwhDpl0C:
-    citations: 4
+    citations: 5
     title: Finding maximally informative patches in images
     year: '2021'
+  8rZyuc8AAAAJ:dfsIfKJdRG4C:
+    citations: 0
+    title: 'EgoGroups: A Benchmark For Detecting Social Groups of People in the Wild'
+    year: '2026'
   8rZyuc8AAAAJ:dhFuZR0502QC:
-    citations: 5
+    citations: 6
     title: Ct reconstruction from few planar x-rays with application towards low-resource radiotherapy
     year: '2023'
   8rZyuc8AAAAJ:e5wmG9Sq2KIC:
@@ -258,7 +262,7 @@ papers:
     title: When are Diffusion Priors Helpful in Sparse Reconstruction? A Study with Sparse-view CT
     year: '2025'
   8rZyuc8AAAAJ:hqOjcs7Dif8C:
-    citations: 113
+    citations: 115
     title: 'Miner: Multiscale implicit neural representation'
     year: '2022'
   8rZyuc8AAAAJ:isC4tDSrTZIC:
@@ -266,7 +270,7 @@ papers:
     title: Learning transferable features for implicit neural representations
     year: '2025'
   8rZyuc8AAAAJ:kNdYIx-mwKoC:
-    citations: 1009
+    citations: 1014
     title: Unsupervised learning of probabilistic diffeomorphic registration for images and surfaces
     year: '2019'
   8rZyuc8AAAAJ:k_IJM867U9cC:
