@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-27'
+  last_updated: '2026-04-01'
 papers:
   8rZyuc8AAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -42,7 +42,7 @@ papers:
     title: Efficient Conformal Volumetry for Template-Based Segmentation
     year: '2026'
   8rZyuc8AAAAJ:4TOpqqG69KYC:
-    citations: 328
+    citations: 329
     title: 'Wire: Wavelet implicit neural representations'
     year: '2023'
   8rZyuc8AAAAJ:5nxA0vEk-isC:
@@ -54,7 +54,7 @@ papers:
     title: Metric-Guided Conformal Bounds for Probabilistic Image Reconstruction
     year: '2025'
   8rZyuc8AAAAJ:7PzlFSSx8tAC:
-    citations: 41
+    citations: 42
     title: 'Benchmarking algorithmic bias in face recognition: An experimental approach using synthetic faces and human evaluation'
     year: '2023'
   8rZyuc8AAAAJ:8k81kl-MbHgC:
@@ -90,7 +90,7 @@ papers:
     title: Improving denoising diffusion probabilistic models via exploiting shared representations
     year: '2023'
   8rZyuc8AAAAJ:IjCSPb-OGe4C:
-    citations: 79
+    citations: 80
     title: 'Leveling down in computer vision: Pareto inefficiencies in fair deep classifiers'
     year: '2022'
   8rZyuc8AAAAJ:JV2RwH3_ST0C:
@@ -102,11 +102,11 @@ papers:
     title: 'ISLAND: Informing Brightness and Surface Temperature Through a Land Cover-based Interpolator'
     year: '2023'
   8rZyuc8AAAAJ:LkGwnXOMwfcC:
-    citations: 997
+    citations: 998
     title: An unsupervised learning model for deformable medical image registration
     year: '2018'
   8rZyuc8AAAAJ:M05iB0D1s5AC:
-    citations: 2
+    citations: 3
     title: 'Fit Pixels, Get Labels: Meta-learned Implicit Networks for Image Segmentation'
     year: '2025'
   8rZyuc8AAAAJ:M3NEmzRMIkIC:
@@ -118,7 +118,7 @@ papers:
     title: When and why test-time augmentation works
     year: '2020'
   8rZyuc8AAAAJ:MXK_kJrjxJIC:
-    citations: 2932
+    citations: 2940
     title: 'Voxelmorph: a learning framework for deformable medical image registration'
     year: '2019'
   8rZyuc8AAAAJ:NMxIlDl6LWMC:
@@ -162,7 +162,7 @@ papers:
     title: 'Gelda: A generative language annotation framework to reveal visual biases in image generators'
     year: '2024'
   8rZyuc8AAAAJ:TQgYirikUcIC:
-    citations: 40
+    citations: 41
     title: 'Elasticdiffusion: Training-free arbitrary size image generation through global-local content separation'
     year: '2024'
   8rZyuc8AAAAJ:Tyk-4Ss8FVUC:
@@ -182,7 +182,7 @@ papers:
     title: 'Painting many pasts: Synthesizing time lapse videos of paintings'
     year: '2020'
   8rZyuc8AAAAJ:Wp0gIr-vW9MC:
-    citations: 18
+    citations: 19
     title: '{MadEye}: Boosting live video analytics accuracy with adaptive camera configurations'
     year: '2024'
   8rZyuc8AAAAJ:YOwf2qJgpHMC:
@@ -202,11 +202,11 @@ papers:
     title: Generation of synthetic image data with varied attributes
     year: '2023'
   8rZyuc8AAAAJ:Zph67rFs4hoC:
-    citations: 255
+    citations: 256
     title: Better aggregation in test-time augmentation
     year: '2021'
   8rZyuc8AAAAJ:_FxGoFyzp5QC:
-    citations: 904
+    citations: 905
     title: Detecting pulse from head motions in video
     year: '2013'
   8rZyuc8AAAAJ:_Qo2XoVZTnwC:
@@ -221,6 +221,10 @@ papers:
     citations: 5
     title: 'Bias for action: Video implicit neural representations with bias modulation'
     year: '2025'
+  8rZyuc8AAAAJ:cFHS6HbyZ2cC:
+    citations: 0
+    title: 26-A-8303-ACC DEEP LEARNING-PREDICTED AGE FROM ECG IMAGES AS A NOVEL MARKER OF BIOLOGICAL AGING AND RISK STRATIFICATION
+    year: '2026'
   8rZyuc8AAAAJ:d1gkVwhDpl0C:
     citations: 5
     title: Finding maximally informative patches in images
@@ -270,7 +274,7 @@ papers:
     title: Learning transferable features for implicit neural representations
     year: '2025'
   8rZyuc8AAAAJ:kNdYIx-mwKoC:
-    citations: 1014
+    citations: 1016
     title: Unsupervised learning of probabilistic diffeomorphic registration for images and surfaces
     year: '2019'
   8rZyuc8AAAAJ:k_IJM867U9cC:
@@ -341,6 +345,10 @@ papers:
     citations: 0
     title: "Debris segmentation using post\u2010hurricane aerial imagery"
     year: '2025'
+  8rZyuc8AAAAJ:yD5IFk8b50cC:
+    citations: 0
+    title: 26-A-8376-ACC AI-DERIVED LEFT ATRIAL VOLUME INDEX FROM CALCIUM SCORE CT PREDICTS INCIDENT ATRIAL FIBRILLATION
+    year: '2026'
   8rZyuc8AAAAJ:zA6iFVUQeVQC:
     citations: 0
     title: 'Latent Diffusion for 3D CT Reconstruction from Biplanar X-Rays: SU-330-GPD-D-130'
