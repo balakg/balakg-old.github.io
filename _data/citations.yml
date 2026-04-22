@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-15'
+  last_updated: '2026-04-22'
 papers:
   8rZyuc8AAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -22,7 +22,7 @@ papers:
     title: 'FastAvatar: Instant 3D Gaussian Splatting for Faces from Single Unconstrained Poses'
     year: '2025'
   8rZyuc8AAAAJ:3fE2CSJIrl8C:
-    citations: 670
+    citations: 673
     title: Data augmentation using learned transformations for one-shot medical image segmentation
     year: '2019'
   8rZyuc8AAAAJ:3s1wT3WcHBgC:
@@ -42,7 +42,7 @@ papers:
     title: Efficient Conformal Volumetry for Template-Based Segmentation
     year: '2026'
   8rZyuc8AAAAJ:4TOpqqG69KYC:
-    citations: 334
+    citations: 341
     title: 'Wire: Wavelet implicit neural representations'
     year: '2023'
   8rZyuc8AAAAJ:5nxA0vEk-isC:
@@ -54,7 +54,7 @@ papers:
     title: Metric-Guided Conformal Bounds for Probabilistic Image Reconstruction
     year: '2025'
   8rZyuc8AAAAJ:7PzlFSSx8tAC:
-    citations: 42
+    citations: 43
     title: 'Benchmarking algorithmic bias in face recognition: An experimental approach using synthetic faces and human evaluation'
     year: '2023'
   8rZyuc8AAAAJ:8k81kl-MbHgC:
@@ -82,7 +82,7 @@ papers:
     title: Post-Hurricane Debris Segmentation Using Fine-Tuned Foundational Vision Models
     year: '2025'
   8rZyuc8AAAAJ:HDshCWvjkbEC:
-    citations: 31
+    citations: 33
     title: "Artificial intelligence uncertainty quantification in radiotherapy applications\u2212 a scoping review"
     year: '2024'
   8rZyuc8AAAAJ:HoB7MX3m0LUC:
@@ -106,7 +106,7 @@ papers:
     title: 'ISLAND: Informing Brightness and Surface Temperature Through a Land Cover-based Interpolator'
     year: '2023'
   8rZyuc8AAAAJ:LkGwnXOMwfcC:
-    citations: 999
+    citations: 1003
     title: An unsupervised learning model for deformable medical image registration
     year: '2018'
   8rZyuc8AAAAJ:M05iB0D1s5AC:
@@ -122,7 +122,7 @@ papers:
     title: When and why test-time augmentation works
     year: '2020'
   8rZyuc8AAAAJ:MXK_kJrjxJIC:
-    citations: 2959
+    citations: 2977
     title: 'Voxelmorph: a learning framework for deformable medical image registration'
     year: '2019'
   8rZyuc8AAAAJ:NMxIlDl6LWMC:
@@ -146,7 +146,7 @@ papers:
     title: 'GIQ: Benchmarking 3D Geometric Reasoning of Vision Foundation Models with Simulated and Real Polyhedra'
     year: '2025'
   8rZyuc8AAAAJ:RHpTSmoSYBkC:
-    citations: 20
+    citations: 21
     title: 'Fairness and bias mitigation in computer vision: A survey'
     year: '2024'
   8rZyuc8AAAAJ:RYcK_YlVTxYC:
@@ -206,11 +206,11 @@ papers:
     title: Generation of synthetic image data with varied attributes
     year: '2023'
   8rZyuc8AAAAJ:Zph67rFs4hoC:
-    citations: 264
+    citations: 266
     title: Better aggregation in test-time augmentation
     year: '2021'
   8rZyuc8AAAAJ:_FxGoFyzp5QC:
-    citations: 905
+    citations: 906
     title: Detecting pulse from head motions in video
     year: '2013'
   8rZyuc8AAAAJ:_Qo2XoVZTnwC:
@@ -246,11 +246,11 @@ papers:
     title: Ct reconstruction from few planar x-rays with application towards low-resource radiotherapy
     year: '2023'
   8rZyuc8AAAAJ:e5wmG9Sq2KIC:
-    citations: 28
+    citations: 29
     title: Taming data and transformers for audio generation
     year: '2026'
   8rZyuc8AAAAJ:eQOLeE2rZwMC:
-    citations: 27
+    citations: 28
     title: A video-based method for automatically rating ataxia
     year: '2017'
   8rZyuc8AAAAJ:fPk4N6BV_jEC:
@@ -274,15 +274,15 @@ papers:
     title: When are Diffusion Priors Helpful in Sparse Reconstruction? A Study with Sparse-view CT
     year: '2025'
   8rZyuc8AAAAJ:hqOjcs7Dif8C:
-    citations: 115
+    citations: 118
     title: 'Miner: Multiscale implicit neural representation'
     year: '2022'
   8rZyuc8AAAAJ:isC4tDSrTZIC:
-    citations: 8
+    citations: 9
     title: Learning transferable features for implicit neural representations
     year: '2025'
   8rZyuc8AAAAJ:kNdYIx-mwKoC:
-    citations: 1021
+    citations: 1028
     title: Unsupervised learning of probabilistic diffeomorphic registration for images and surfaces
     year: '2019'
   8rZyuc8AAAAJ:k_IJM867U9cC:
@@ -317,6 +317,10 @@ papers:
     citations: 0
     title: "Novel Deep Learning Models for Automatic Assessment of Motor Disease Severity in Parkinson\u2019s Disease"
     year: '2025'
+  8rZyuc8AAAAJ:pyW8ca7W8N0C:
+    citations: 0
+    title: Learning Efficient Implicit Neural Representations for Low Data Settings with Structured Noise
+    year: '2025'
   8rZyuc8AAAAJ:qUcmZB5y_30C:
     citations: 1
     title: 'GELDA: A generative language annotation framework to reveal visual biases in datasets'
@@ -338,7 +342,7 @@ papers:
     title: 'Scalable personalization of long-term physiological monitoring: Active learning methodologies for epileptic seizure onset detection'
     year: '2012'
   8rZyuc8AAAAJ:u5HHmVD_uO8C:
-    citations: 17
+    citations: 18
     title: 'Visual deprojection: Probabilistic recovery of collapsed dimensions'
     year: '2019'
   8rZyuc8AAAAJ:u_35RYKgDlwC:
