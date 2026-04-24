@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-22'
+  last_updated: '2026-04-24'
 papers:
   8rZyuc8AAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -66,7 +66,7 @@ papers:
     title: Visualizing chest X-ray dataset biases using GANs
     year: '2023'
   8rZyuc8AAAAJ:9yKSN-GCB0IC:
-    citations: 385
+    citations: 384
     title: Synthesizing images of humans in unseen poses
     year: '2018'
   8rZyuc8AAAAJ:BqipwSGYUEgC:
@@ -94,7 +94,7 @@ papers:
     title: Improving denoising diffusion probabilistic models via exploiting shared representations
     year: '2023'
   8rZyuc8AAAAJ:IjCSPb-OGe4C:
-    citations: 81
+    citations: 80
     title: 'Leveling down in computer vision: Pareto inefficiencies in fair deep classifiers'
     year: '2022'
   8rZyuc8AAAAJ:JV2RwH3_ST0C:
@@ -118,11 +118,11 @@ papers:
     title: Regression Conformal Prediction under Bias
     year: '2024'
   8rZyuc8AAAAJ:M3ejUd6NZC8C:
-    citations: 88
+    citations: 89
     title: When and why test-time augmentation works
     year: '2020'
   8rZyuc8AAAAJ:MXK_kJrjxJIC:
-    citations: 2977
+    citations: 2979
     title: 'Voxelmorph: a learning framework for deformable medical image registration'
     year: '2019'
   8rZyuc8AAAAJ:NMxIlDl6LWMC:
@@ -206,7 +206,7 @@ papers:
     title: Generation of synthetic image data with varied attributes
     year: '2023'
   8rZyuc8AAAAJ:Zph67rFs4hoC:
-    citations: 266
+    citations: 269
     title: Better aggregation in test-time augmentation
     year: '2021'
   8rZyuc8AAAAJ:_FxGoFyzp5QC:
@@ -274,7 +274,7 @@ papers:
     title: When are Diffusion Priors Helpful in Sparse Reconstruction? A Study with Sparse-view CT
     year: '2025'
   8rZyuc8AAAAJ:hqOjcs7Dif8C:
-    citations: 118
+    citations: 119
     title: 'Miner: Multiscale implicit neural representation'
     year: '2022'
   8rZyuc8AAAAJ:isC4tDSrTZIC:
