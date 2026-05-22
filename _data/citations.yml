@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-11'
+  last_updated: '2026-05-22'
 papers:
   8rZyuc8AAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -22,7 +22,7 @@ papers:
     title: 'FastAvatar: Instant 3D Gaussian Splatting for Faces from Single Unconstrained Poses'
     year: '2025'
   8rZyuc8AAAAJ:3fE2CSJIrl8C:
-    citations: 679
+    citations: 680
     title: Data augmentation using learned transformations for one-shot medical image segmentation
     year: '2019'
   8rZyuc8AAAAJ:3s1wT3WcHBgC:
@@ -42,7 +42,7 @@ papers:
     title: Efficient Conformal Volumetry for Template-Based Segmentation
     year: '2026'
   8rZyuc8AAAAJ:4TOpqqG69KYC:
-    citations: 353
+    citations: 360
     title: 'Wire: Wavelet implicit neural representations'
     year: '2023'
   8rZyuc8AAAAJ:5nxA0vEk-isC:
@@ -74,7 +74,7 @@ papers:
     title: 'TranSplat: Lighting-Consistent Cross-Scene Object Transfer with 3D Gaussian Splatting'
     year: '2025'
   8rZyuc8AAAAJ:D03iK_w7-QYC:
-    citations: 0
+    citations: 1
     title: The Surprising Effectiveness of Noise Pretraining for Implicit Neural Representations
     year: '2026'
   8rZyuc8AAAAJ:GnPB-g6toBAC:
@@ -82,7 +82,7 @@ papers:
     title: Post-Hurricane Debris Segmentation Using Fine-Tuned Foundational Vision Models
     year: '2025'
   8rZyuc8AAAAJ:HDshCWvjkbEC:
-    citations: 35
+    citations: 37
     title: "Artificial intelligence uncertainty quantification in radiotherapy applications\u2212 a scoping review"
     year: '2024'
   8rZyuc8AAAAJ:HoB7MX3m0LUC:
@@ -94,7 +94,7 @@ papers:
     title: Improving denoising diffusion probabilistic models via exploiting shared representations
     year: '2023'
   8rZyuc8AAAAJ:IjCSPb-OGe4C:
-    citations: 81
+    citations: 82
     title: 'Leveling down in computer vision: Pareto inefficiencies in fair deep classifiers'
     year: '2022'
   8rZyuc8AAAAJ:JV2RwH3_ST0C:
@@ -106,11 +106,11 @@ papers:
     title: 'ISLAND: Informing Brightness and Surface Temperature Through a Land Cover-based Interpolator'
     year: '2023'
   8rZyuc8AAAAJ:LkGwnXOMwfcC:
-    citations: 1014
+    citations: 1015
     title: An unsupervised learning model for deformable medical image registration
     year: '2018'
   8rZyuc8AAAAJ:M05iB0D1s5AC:
-    citations: 5
+    citations: 6
     title: 'Fit Pixels, Get Labels: Meta-learned Implicit Networks for Image Segmentation'
     year: '2025'
   8rZyuc8AAAAJ:M3NEmzRMIkIC:
@@ -118,11 +118,11 @@ papers:
     title: Regression Conformal Prediction under Bias
     year: '2024'
   8rZyuc8AAAAJ:M3ejUd6NZC8C:
-    citations: 88
+    citations: 89
     title: When and why test-time augmentation works
     year: '2020'
   8rZyuc8AAAAJ:MXK_kJrjxJIC:
-    citations: 3017
+    citations: 3034
     title: 'Voxelmorph: a learning framework for deformable medical image registration'
     year: '2019'
   8rZyuc8AAAAJ:NMxIlDl6LWMC:
@@ -166,11 +166,11 @@ papers:
     title: 'Gelda: A generative language annotation framework to reveal visual biases in image generators'
     year: '2024'
   8rZyuc8AAAAJ:TQgYirikUcIC:
-    citations: 41
+    citations: 42
     title: 'Elasticdiffusion: Training-free arbitrary size image generation through global-local content separation'
     year: '2024'
   8rZyuc8AAAAJ:Tyk-4Ss8FVUC:
-    citations: 63
+    citations: 64
     title: Pulse detection from head motions in video
     year: '2020'
   8rZyuc8AAAAJ:ULOm3_A8WrAC:
@@ -206,7 +206,7 @@ papers:
     title: Generation of synthetic image data with varied attributes
     year: '2023'
   8rZyuc8AAAAJ:Zph67rFs4hoC:
-    citations: 271
+    citations: 273
     title: Better aggregation in test-time augmentation
     year: '2021'
   8rZyuc8AAAAJ:_FxGoFyzp5QC:
@@ -214,15 +214,19 @@ papers:
     title: Detecting pulse from head motions in video
     year: '2013'
   8rZyuc8AAAAJ:_Qo2XoVZTnwC:
-    citations: 19
+    citations: 20
     title: 'Dragon: Drone and ground gaussian splatting for 3d building reconstruction'
     year: '2024'
+  8rZyuc8AAAAJ:_xSYboBqXhAC:
+    citations: 0
+    title: 'GeoViSTA: Geospatial Vision-Tabular Transformer for Multimodal Environment Representation'
+    year: '2026'
   8rZyuc8AAAAJ:a0OBvERweLwC:
     citations: 0
     title: Generating Humanless Environment Walkthroughs from Egocentric Walking Tour Videos
     year: '2026'
   8rZyuc8AAAAJ:aqlVkmm33-oC:
-    citations: 44
+    citations: 48
     title: 'Splinecam: Exact visualization and characterization of deep network geometry and decision boundaries'
     year: '2023'
   8rZyuc8AAAAJ:blknAaTinKkC:
@@ -282,11 +286,11 @@ papers:
     title: 'Miner: Multiscale implicit neural representation'
     year: '2022'
   8rZyuc8AAAAJ:isC4tDSrTZIC:
-    citations: 10
+    citations: 11
     title: Learning transferable features for implicit neural representations
     year: '2025'
   8rZyuc8AAAAJ:kNdYIx-mwKoC:
-    citations: 1034
+    citations: 1040
     title: Unsupervised learning of probabilistic diffeomorphic registration for images and surfaces
     year: '2019'
   8rZyuc8AAAAJ:k_IJM867U9cC:
@@ -310,7 +314,7 @@ papers:
     title: 'X-ray Recognition: Patient identification from X-rays using a contrastive objective'
     year: '2023'
   8rZyuc8AAAAJ:maZDTaKrznsC:
-    citations: 6
+    citations: 7
     title: Generative precipitation downscaling using score-based diffusion with wasserstein regularization
     year: '2024'
   8rZyuc8AAAAJ:ns9cj8rnVeAC:
@@ -358,7 +362,7 @@ papers:
     title: 'Video diff: Highlighting differences between similar actions in videos'
     year: '2015'
   8rZyuc8AAAAJ:vV6vV6tmYwMC:
-    citations: 2
+    citations: 3
     title: "Debris segmentation using post\u2010hurricane aerial imagery"
     year: '2025'
   8rZyuc8AAAAJ:yD5IFk8b50cC:
