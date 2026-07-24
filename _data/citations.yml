@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-07-24'
 papers:
   8rZyuc8AAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -14,15 +14,15 @@ papers:
     title: 'COMPASS: Robust Feature Conformal Prediction for Medical Segmentation Metrics'
     year: '2025'
   8rZyuc8AAAAJ:2osOgNQ5qMEC:
-    citations: 11
+    citations: 12
     title: 'Rayleigh eigendirections (reds): Nonlinear gan latent space traversals for multidimensional features'
     year: '2022'
   8rZyuc8AAAAJ:35N4QoGY0k4C:
-    citations: 2
+    citations: 3
     title: 'FastAvatar: Instant 3D Gaussian Splatting for Faces from Single Unconstrained Poses'
     year: '2025'
   8rZyuc8AAAAJ:3fE2CSJIrl8C:
-    citations: 688
+    citations: 691
     title: Data augmentation using learned transformations for one-shot medical image segmentation
     year: '2019'
   8rZyuc8AAAAJ:3s1wT3WcHBgC:
@@ -42,7 +42,7 @@ papers:
     title: Efficient Conformal Volumetry for Template-Based Segmentation
     year: '2026'
   8rZyuc8AAAAJ:4TOpqqG69KYC:
-    citations: 395
+    citations: 398
     title: 'Wire: Wavelet implicit neural representations'
     year: '2023'
   8rZyuc8AAAAJ:5nxA0vEk-isC:
@@ -54,7 +54,7 @@ papers:
     title: Metric-Guided Conformal Bounds for Probabilistic Image Reconstruction
     year: '2025'
   8rZyuc8AAAAJ:7PzlFSSx8tAC:
-    citations: 49
+    citations: 50
     title: 'Benchmarking algorithmic bias in face recognition: An experimental approach using synthetic faces and human evaluation'
     year: '2023'
   8rZyuc8AAAAJ:8k81kl-MbHgC:
@@ -66,7 +66,7 @@ papers:
     title: Visualizing chest X-ray dataset biases using GANs
     year: '2023'
   8rZyuc8AAAAJ:9yKSN-GCB0IC:
-    citations: 388
+    citations: 389
     title: Synthesizing images of humans in unseen poses
     year: '2018'
   8rZyuc8AAAAJ:BqipwSGYUEgC:
@@ -102,7 +102,7 @@ papers:
     title: Improving denoising diffusion probabilistic models via exploiting shared representations
     year: '2023'
   8rZyuc8AAAAJ:IjCSPb-OGe4C:
-    citations: 87
+    citations: 88
     title: 'Leveling down in computer vision: Pareto inefficiencies in fair deep classifiers'
     year: '2022'
   8rZyuc8AAAAJ:JV2RwH3_ST0C:
@@ -114,7 +114,7 @@ papers:
     title: 'ISLAND: Informing Brightness and Surface Temperature Through a Land Cover-based Interpolator'
     year: '2023'
   8rZyuc8AAAAJ:LkGwnXOMwfcC:
-    citations: 1032
+    citations: 1033
     title: An unsupervised learning model for deformable medical image registration
     year: '2018'
   8rZyuc8AAAAJ:M05iB0D1s5AC:
@@ -126,11 +126,11 @@ papers:
     title: Regression Conformal Prediction under Bias
     year: '2024'
   8rZyuc8AAAAJ:M3ejUd6NZC8C:
-    citations: 89
+    citations: 90
     title: When and why test-time augmentation works
     year: '2020'
   8rZyuc8AAAAJ:MXK_kJrjxJIC:
-    citations: 3151
+    citations: 3171
     title: 'Voxelmorph: a learning framework for deformable medical image registration'
     year: '2019'
   8rZyuc8AAAAJ:NaGl4SEjCO4C:
@@ -154,7 +154,7 @@ papers:
     title: 'GIQ: Benchmarking 3D Geometric Reasoning of Vision Foundation Models with Simulated and Real Polyhedra'
     year: '2025'
   8rZyuc8AAAAJ:RHpTSmoSYBkC:
-    citations: 27
+    citations: 28
     title: 'Fairness and bias mitigation in computer vision: A survey'
     year: '2024'
   8rZyuc8AAAAJ:RYcK_YlVTxYC:
@@ -194,7 +194,7 @@ papers:
     title: 'Painting many pasts: Synthesizing time lapse videos of paintings'
     year: '2020'
   8rZyuc8AAAAJ:Wp0gIr-vW9MC:
-    citations: 24
+    citations: 25
     title: '{MadEye}: Boosting live video analytics accuracy with adaptive camera configurations'
     year: '2024'
   8rZyuc8AAAAJ:YOwf2qJgpHMC:
@@ -214,7 +214,7 @@ papers:
     title: Generation of synthetic image data with varied attributes
     year: '2023'
   8rZyuc8AAAAJ:Zph67rFs4hoC:
-    citations: 289
+    citations: 290
     title: Better aggregation in test-time augmentation
     year: '2021'
   8rZyuc8AAAAJ:_FxGoFyzp5QC:
@@ -238,7 +238,7 @@ papers:
     title: 'Splatshot: 3D Face Avatar Generation from a Single Unconstrained Photo'
     year: '2026'
   8rZyuc8AAAAJ:aqlVkmm33-oC:
-    citations: 52
+    citations: 53
     title: 'Splinecam: Exact visualization and characterization of deep network geometry and decision boundaries'
     year: '2023'
   8rZyuc8AAAAJ:b0M2c_1WBrUC:
@@ -266,11 +266,11 @@ papers:
     title: Ct reconstruction from few planar x-rays with application towards low-resource radiotherapy
     year: '2023'
   8rZyuc8AAAAJ:e5wmG9Sq2KIC:
-    citations: 38
+    citations: 39
     title: Taming data and transformers for audio generation
     year: '2026'
   8rZyuc8AAAAJ:eQOLeE2rZwMC:
-    citations: 27
+    citations: 28
     title: A video-based method for automatically rating ataxia
     year: '2017'
   8rZyuc8AAAAJ:f2IySw72cVMC:
@@ -290,7 +290,7 @@ papers:
     title: 'F? D: On understanding the role of deep feature spaces on face generation evaluation'
     year: '2024'
   8rZyuc8AAAAJ:hFOr9nPyWt4C:
-    citations: 6
+    citations: 7
     title: 'ISLAND: Interpolating Land Surface Temperature using land cover'
     year: '2024'
   8rZyuc8AAAAJ:hMod-77fHWUC:
@@ -298,7 +298,7 @@ papers:
     title: When are Diffusion Priors Helpful in Sparse Reconstruction? A Study with Sparse-view CT
     year: '2025'
   8rZyuc8AAAAJ:hqOjcs7Dif8C:
-    citations: 128
+    citations: 129
     title: 'Miner: Multiscale implicit neural representation'
     year: '2022'
   8rZyuc8AAAAJ:isC4tDSrTZIC:
@@ -306,7 +306,7 @@ papers:
     title: Learning transferable features for implicit neural representations
     year: '2025'
   8rZyuc8AAAAJ:kNdYIx-mwKoC:
-    citations: 1064
+    citations: 1070
     title: Unsupervised learning of probabilistic diffeomorphic registration for images and surfaces
     year: '2019'
   8rZyuc8AAAAJ:k_IJM867U9cC:
