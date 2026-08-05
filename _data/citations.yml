@@ -1,28 +1,32 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-05'
 papers:
   8rZyuc8AAAAJ:-f6ydRqryjwC:
     citations: 1
     title: Linking convolutional kernel size to generalization bias in face analysis CNNs
     year: '2024'
   8rZyuc8AAAAJ:0EnyYjriUFMC:
-    citations: 122
+    citations: 123
     title: Towards causal benchmarking of bias in face analysis algorithms
+    year: '2021'
+  8rZyuc8AAAAJ:1sJd4Hv_s6UC:
+    citations: 0
+    title: A THESIS SUBMITTED
     year: '2021'
   8rZyuc8AAAAJ:2P1L_qKh6hAC:
     citations: 3
-    title: 'COMPASS: Robust Feature Conformal Prediction for Medical Segmentation Metrics'
-    year: '2025'
+    title: 'Compass: Robust feature conformal prediction for medical segmentation metrics'
+    year: '2026'
   8rZyuc8AAAAJ:2osOgNQ5qMEC:
     citations: 12
     title: 'Rayleigh eigendirections (reds): Nonlinear gan latent space traversals for multidimensional features'
     year: '2022'
   8rZyuc8AAAAJ:35N4QoGY0k4C:
-    citations: 3
-    title: 'FastAvatar: Instant 3D Gaussian Splatting for Faces from Single Unconstrained Poses'
+    citations: 4
+    title: 'Fastavatar: Instant 3d gaussian splatting for faces from single unconstrained poses'
     year: '2025'
   8rZyuc8AAAAJ:3fE2CSJIrl8C:
-    citations: 691
+    citations: 692
     title: Data augmentation using learned transformations for one-shot medical image segmentation
     year: '2019'
   8rZyuc8AAAAJ:3s1wT3WcHBgC:
@@ -54,7 +58,7 @@ papers:
     title: Metric-Guided Conformal Bounds for Probabilistic Image Reconstruction
     year: '2025'
   8rZyuc8AAAAJ:7PzlFSSx8tAC:
-    citations: 50
+    citations: 51
     title: 'Benchmarking algorithmic bias in face recognition: An experimental approach using synthetic faces and human evaluation'
     year: '2023'
   8rZyuc8AAAAJ:8k81kl-MbHgC:
@@ -66,7 +70,7 @@ papers:
     title: Visualizing chest X-ray dataset biases using GANs
     year: '2023'
   8rZyuc8AAAAJ:9yKSN-GCB0IC:
-    citations: 389
+    citations: 390
     title: Synthesizing images of humans in unseen poses
     year: '2018'
   8rZyuc8AAAAJ:BqipwSGYUEgC:
@@ -79,7 +83,7 @@ papers:
     year: '2026'
   8rZyuc8AAAAJ:D03iK_w7-QYC:
     citations: 1
-    title: The Surprising Effectiveness of Noise Pretraining for Implicit Neural Representations
+    title: The surprising effectiveness of noise pretraining for implicit neural representations
     year: '2026'
   8rZyuc8AAAAJ:EUQCXRtRnyEC:
     citations: 0
@@ -90,12 +94,12 @@ papers:
     title: Post-Hurricane Debris Segmentation Using Fine-Tuned Foundational Vision Models
     year: '2025'
   8rZyuc8AAAAJ:HDshCWvjkbEC:
-    citations: 40
-    title: "Artificial intelligence uncertainty quantification in radiotherapy applications\u2212 a scoping review"
+    citations: 41
+    title: "Artificial intelligence uncertainty quantification in radiotherapy applications\u2212 A scoping review"
     year: '2024'
   8rZyuc8AAAAJ:HoB7MX3m0LUC:
     citations: 0
-    title: Latent Diffusion for 3D CT Reconstruction from Biplanar X-Rays
+    title: 'Latent Diffusion for 3D CT Reconstruction from Biplanar X-Rays: SU-330-GPD-D-130'
     year: '2025'
   8rZyuc8AAAAJ:IWHjjKOFINEC:
     citations: 4
@@ -114,12 +118,12 @@ papers:
     title: 'ISLAND: Informing Brightness and Surface Temperature Through a Land Cover-based Interpolator'
     year: '2023'
   8rZyuc8AAAAJ:LkGwnXOMwfcC:
-    citations: 1038
+    citations: 1029
     title: An unsupervised learning model for deformable medical image registration
     year: '2018'
   8rZyuc8AAAAJ:M05iB0D1s5AC:
-    citations: 8
-    title: 'Fit Pixels, Get Labels: Meta-learned Implicit Networks for Image Segmentation'
+    citations: 9
+    title: 'Fit pixels, get labels: Meta-learned implicit networks for image segmentation'
     year: '2025'
   8rZyuc8AAAAJ:M3NEmzRMIkIC:
     citations: 0
@@ -130,9 +134,9 @@ papers:
     title: When and why test-time augmentation works
     year: '2020'
   8rZyuc8AAAAJ:MXK_kJrjxJIC:
-    citations: 3180
+    citations: 3184
     title: 'Voxelmorph: a learning framework for deformable medical image registration'
-    year: '2018'
+    year: '2019'
   8rZyuc8AAAAJ:NaGl4SEjCO4C:
     citations: 1
     title: 'Gvit: Representing images as gaussians for visual recognition'
@@ -151,10 +155,10 @@ papers:
     year: Unknown Year
   8rZyuc8AAAAJ:RGFaLdJalmkC:
     citations: 3
-    title: 'GIQ: Benchmarking 3D Geometric Reasoning of Vision Foundation Models with Simulated and Real Polyhedra'
-    year: '2025'
+    title: 'Giq: Benchmarking 3d geometric reasoning of vision foundation models with simulated and real polyhedra'
+    year: '2026'
   8rZyuc8AAAAJ:RHpTSmoSYBkC:
-    citations: 28
+    citations: 29
     title: 'Fairness and bias mitigation in computer vision: A survey'
     year: '2024'
   8rZyuc8AAAAJ:RYcK_YlVTxYC:
@@ -195,8 +199,8 @@ papers:
     year: '2020'
   8rZyuc8AAAAJ:Wp0gIr-vW9MC:
     citations: 25
-    title: 'MadEye: Boosting live video analytics accuracy with adaptive camera configurations'
-    year: '2023'
+    title: '{MadEye}: Boosting live video analytics accuracy with adaptive camera configurations'
+    year: '2024'
   8rZyuc8AAAAJ:YOwf2qJgpHMC:
     citations: 0
     title: 'MINER: Multiscale Implicit Neural Representation (supplementary)'
@@ -214,15 +218,15 @@ papers:
     title: Generation of synthetic image data with varied attributes
     year: '2023'
   8rZyuc8AAAAJ:Zph67rFs4hoC:
-    citations: 291
+    citations: 295
     title: Better aggregation in test-time augmentation
     year: '2021'
   8rZyuc8AAAAJ:_FxGoFyzp5QC:
-    citations: 922
+    citations: 912
     title: Detecting pulse from head motions in video
     year: '2013'
   8rZyuc8AAAAJ:_Qo2XoVZTnwC:
-    citations: 24
+    citations: 23
     title: 'Dragon: Drone and ground gaussian splatting for 3d building reconstruction'
     year: '2024'
   8rZyuc8AAAAJ:_xSYboBqXhAC:
@@ -266,11 +270,11 @@ papers:
     title: Ct reconstruction from few planar x-rays with application towards low-resource radiotherapy
     year: '2023'
   8rZyuc8AAAAJ:e5wmG9Sq2KIC:
-    citations: 39
+    citations: 38
     title: Taming data and transformers for audio generation
     year: '2026'
   8rZyuc8AAAAJ:eQOLeE2rZwMC:
-    citations: 28
+    citations: 30
     title: A video-based method for automatically rating ataxia
     year: '2017'
   8rZyuc8AAAAJ:f2IySw72cVMC:
@@ -288,27 +292,27 @@ papers:
   8rZyuc8AAAAJ:hC7cP41nSMkC:
     citations: 2
     title: 'F? d: On understanding the role of deep feature spaces on face generation evaluation'
-    year: '2023'
+    year: '2024'
   8rZyuc8AAAAJ:hFOr9nPyWt4C:
     citations: 7
     title: 'ISLAND: Interpolating Land Surface Temperature using land cover'
-    year: '2023'
+    year: '2024'
   8rZyuc8AAAAJ:hMod-77fHWUC:
     citations: 0
     title: When are Diffusion Priors Helpful in Sparse Reconstruction? A Study with Sparse-view CT
     year: '2025'
   8rZyuc8AAAAJ:hqOjcs7Dif8C:
-    citations: 130
+    citations: 132
     title: 'Miner: Multiscale implicit neural representation'
     year: '2022'
   8rZyuc8AAAAJ:isC4tDSrTZIC:
-    citations: 13
+    citations: 12
     title: Learning transferable features for implicit neural representations
     year: '2025'
   8rZyuc8AAAAJ:kNdYIx-mwKoC:
-    citations: 1074
-    title: Unsupervised learning for fast probabilistic diffeomorphic registration
-    year: '2018'
+    citations: 1071
+    title: Unsupervised learning of probabilistic diffeomorphic registration for images and surfaces
+    year: '2019'
   8rZyuc8AAAAJ:k_IJM867U9cC:
     citations: 1
     title: Uncertainty Quantification in Machine Learning Radiotherapy Applications-A Scoping Review
@@ -316,10 +320,6 @@ papers:
   8rZyuc8AAAAJ:lSLTfruPkqcC:
     citations: 0
     title: TAMING DATA AND TRANSFORMERS FOR AUDIO GEN
-    year: Unknown Year
-  8rZyuc8AAAAJ:ldfaerwXgEUC:
-    citations: 0
-    title: 'Fit Pixels, Get Labels: Meta-Learned Implicit Networks for Image Segmentation'
     year: Unknown Year
   8rZyuc8AAAAJ:mVmsd5A6BfQC:
     citations: 0
@@ -342,7 +342,7 @@ papers:
     title: Learning Efficient Implicit Neural Representations for Low Data Settings with Structured Noise
     year: '2025'
   8rZyuc8AAAAJ:qjMakFHDy7sC:
-    citations: 18
+    citations: 17
     title: 'Scalable customization of atrial fibrillation detection in cardiac monitoring devices: Increasing detection accuracy through personalized monitoring in large patient populations'
     year: '2011'
   8rZyuc8AAAAJ:rO6llkc54NcC:
@@ -363,7 +363,7 @@ papers:
     year: '2019'
   8rZyuc8AAAAJ:u_35RYKgDlwC:
     citations: 0
-    title: 'TranSplat: Instant Cross-Scene Object Relighting in Gaussian Splatting via Spherical Harmonic Transfer'
+    title: 'TranSplat: Instant Object Relighting in Gaussian Splatting via Spherical Harmonic Radiance Transfer'
     year: '2025'
   8rZyuc8AAAAJ:ufrVoPGSRksC:
     citations: 15
@@ -381,10 +381,6 @@ papers:
     citations: 0
     title: 26-A-8376-ACC AI-DERIVED LEFT ATRIAL VOLUME INDEX FROM CALCIUM SCORE CT PREDICTS INCIDENT ATRIAL FIBRILLATION
     year: '2026'
-  8rZyuc8AAAAJ:zA6iFVUQeVQC:
-    citations: 0
-    title: 'Latent Diffusion for 3D CT Reconstruction from Biplanar X-Rays: SU-330-GPD-D-130'
-    year: '2025'
   8rZyuc8AAAAJ:zYLM7Y9cAGgC:
     citations: 3
     title: 'Scalable personalized medicine with active learning: Detecting seizures with minimum labeled data'
