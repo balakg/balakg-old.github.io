@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-21'
+  last_updated: '2026-08-24'
 papers:
   8rZyuc8AAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -14,7 +14,7 @@ papers:
     title: A THESIS SUBMITTED
     year: '2021'
   8rZyuc8AAAAJ:2P1L_qKh6hAC:
-    citations: 4
+    citations: 5
     title: 'Compass: Robust feature conformal prediction for medical segmentation metrics'
     year: '2026'
   8rZyuc8AAAAJ:2osOgNQ5qMEC:
@@ -26,7 +26,7 @@ papers:
     title: 'Fastavatar: Instant 3d gaussian splatting for faces from single unconstrained poses'
     year: '2025'
   8rZyuc8AAAAJ:3fE2CSJIrl8C:
-    citations: 693
+    citations: 694
     title: Data augmentation using learned transformations for one-shot medical image segmentation
     year: '2019'
   8rZyuc8AAAAJ:3s1wT3WcHBgC:
@@ -46,7 +46,7 @@ papers:
     title: Efficient Conformal Volumetry for Template-Based Segmentation
     year: '2026'
   8rZyuc8AAAAJ:4TOpqqG69KYC:
-    citations: 410
+    citations: 411
     title: 'Wire: Wavelet implicit neural representations'
     year: '2023'
   8rZyuc8AAAAJ:5nxA0vEk-isC:
@@ -113,6 +113,10 @@ papers:
     citations: 5
     title: 'Not all views are created equal: Analyzing viewpoint instabilities in vision foundation models'
     year: '2025'
+  8rZyuc8AAAAJ:KxtntwgDAa4C:
+    citations: 0
+    title: Rapid Debris-Volume Estimation from Post-Hurricane Aerial Imagery
+    year: '2026'
   8rZyuc8AAAAJ:L8Ckcad2t8MC:
     citations: 1
     title: 'ISLAND: Informing Brightness and Surface Temperature Through a Land Cover-based Interpolator'
@@ -134,7 +138,7 @@ papers:
     title: When and why test-time augmentation works
     year: '2020'
   8rZyuc8AAAAJ:MXK_kJrjxJIC:
-    citations: 3231
+    citations: 3239
     title: 'Voxelmorph: a learning framework for deformable medical image registration'
     year: '2019'
   8rZyuc8AAAAJ:NaGl4SEjCO4C:
@@ -222,15 +226,15 @@ papers:
     title: Generation of synthetic image data with varied attributes
     year: '2023'
   8rZyuc8AAAAJ:Zph67rFs4hoC:
-    citations: 306
+    citations: 312
     title: Better aggregation in test-time augmentation
     year: '2021'
   8rZyuc8AAAAJ:_FxGoFyzp5QC:
-    citations: 914
+    citations: 917
     title: Detecting pulse from head motions in video
     year: '2013'
   8rZyuc8AAAAJ:_Qo2XoVZTnwC:
-    citations: 23
+    citations: 24
     title: 'Dragon: Drone and ground gaussian splatting for 3d building reconstruction'
     year: '2024'
   8rZyuc8AAAAJ:_xSYboBqXhAC:
@@ -314,7 +318,7 @@ papers:
     title: Learning transferable features for implicit neural representations
     year: '2025'
   8rZyuc8AAAAJ:kNdYIx-mwKoC:
-    citations: 1079
+    citations: 1081
     title: Unsupervised learning of probabilistic diffeomorphic registration for images and surfaces
     year: '2019'
   8rZyuc8AAAAJ:k_IJM867U9cC:
@@ -378,7 +382,7 @@ papers:
     title: 'Video diff: Highlighting differences between similar actions in videos'
     year: '2015'
   8rZyuc8AAAAJ:vV6vV6tmYwMC:
-    citations: 7
+    citations: 8
     title: "Debris segmentation using post\u2010hurricane aerial imagery"
     year: '2025'
   8rZyuc8AAAAJ:xtRiw3GOFMkC:
