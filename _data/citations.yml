@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-24'
+  last_updated: '2026-08-31'
 papers:
   8rZyuc8AAAAJ:-f6ydRqryjwC:
     citations: 1
@@ -46,7 +46,7 @@ papers:
     title: Efficient Conformal Volumetry for Template-Based Segmentation
     year: '2026'
   8rZyuc8AAAAJ:4TOpqqG69KYC:
-    citations: 411
+    citations: 415
     title: 'Wire: Wavelet implicit neural representations'
     year: '2023'
   8rZyuc8AAAAJ:5nxA0vEk-isC:
@@ -70,7 +70,7 @@ papers:
     title: Visualizing chest X-ray dataset biases using GANs
     year: '2023'
   8rZyuc8AAAAJ:9yKSN-GCB0IC:
-    citations: 392
+    citations: 393
     title: Synthesizing images of humans in unseen poses
     year: '2018'
   8rZyuc8AAAAJ:BqipwSGYUEgC:
@@ -122,7 +122,7 @@ papers:
     title: 'ISLAND: Informing Brightness and Surface Temperature Through a Land Cover-based Interpolator'
     year: '2023'
   8rZyuc8AAAAJ:LkGwnXOMwfcC:
-    citations: 1031
+    citations: 1032
     title: An unsupervised learning model for deformable medical image registration
     year: '2018'
   8rZyuc8AAAAJ:M05iB0D1s5AC:
@@ -138,7 +138,7 @@ papers:
     title: When and why test-time augmentation works
     year: '2020'
   8rZyuc8AAAAJ:MXK_kJrjxJIC:
-    citations: 3239
+    citations: 3256
     title: 'Voxelmorph: a learning framework for deformable medical image registration'
     year: '2019'
   8rZyuc8AAAAJ:NaGl4SEjCO4C:
@@ -186,11 +186,11 @@ papers:
     title: 'Gelda: A generative language annotation framework to reveal visual biases in image generators'
     year: '2024'
   8rZyuc8AAAAJ:TQgYirikUcIC:
-    citations: 47
+    citations: 49
     title: 'Elasticdiffusion: Training-free arbitrary size image generation through global-local content separation'
     year: '2024'
   8rZyuc8AAAAJ:Tyk-4Ss8FVUC:
-    citations: 64
+    citations: 65
     title: Pulse detection from head motions in video
     year: '2020'
   8rZyuc8AAAAJ:ULOm3_A8WrAC:
@@ -226,7 +226,7 @@ papers:
     title: Generation of synthetic image data with varied attributes
     year: '2023'
   8rZyuc8AAAAJ:Zph67rFs4hoC:
-    citations: 312
+    citations: 316
     title: Better aggregation in test-time augmentation
     year: '2021'
   8rZyuc8AAAAJ:_FxGoFyzp5QC:
@@ -310,7 +310,7 @@ papers:
     title: When are Diffusion Priors Helpful in Sparse Reconstruction? A Study with Sparse-view CT
     year: '2025'
   8rZyuc8AAAAJ:hqOjcs7Dif8C:
-    citations: 133
+    citations: 134
     title: 'Miner: Multiscale implicit neural representation'
     year: '2022'
   8rZyuc8AAAAJ:isC4tDSrTZIC:
@@ -334,7 +334,7 @@ papers:
     title: 'X-ray Recognition: Patient identification from X-rays using a contrastive objective'
     year: '2023'
   8rZyuc8AAAAJ:maZDTaKrznsC:
-    citations: 11
+    citations: 12
     title: Generative precipitation downscaling using score-based diffusion with wasserstein regularization
     year: '2024'
   8rZyuc8AAAAJ:nb7KW1ujOQ8C:
