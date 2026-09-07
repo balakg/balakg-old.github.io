@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-08-31'
+  last_updated: '2026-09-07'
 papers:
   8rZyuc8AAAAJ:-f6ydRqryjwC:
     citations: 1
     title: Linking convolutional kernel size to generalization bias in face analysis CNNs
     year: '2024'
   8rZyuc8AAAAJ:0EnyYjriUFMC:
-    citations: 124
+    citations: 125
     title: Towards causal benchmarking of bias in face analysis algorithms
     year: '2021'
   8rZyuc8AAAAJ:1sJd4Hv_s6UC:
@@ -26,7 +26,7 @@ papers:
     title: 'Fastavatar: Instant 3d gaussian splatting for faces from single unconstrained poses'
     year: '2025'
   8rZyuc8AAAAJ:3fE2CSJIrl8C:
-    citations: 694
+    citations: 695
     title: Data augmentation using learned transformations for one-shot medical image segmentation
     year: '2019'
   8rZyuc8AAAAJ:3s1wT3WcHBgC:
@@ -58,7 +58,7 @@ papers:
     title: Metric-Guided Conformal Bounds for Probabilistic Image Reconstruction
     year: '2025'
   8rZyuc8AAAAJ:7PzlFSSx8tAC:
-    citations: 52
+    citations: 53
     title: 'Benchmarking algorithmic bias in face recognition: An experimental approach using synthetic faces and human evaluation'
     year: '2023'
   8rZyuc8AAAAJ:8k81kl-MbHgC:
@@ -94,7 +94,7 @@ papers:
     title: Post-Hurricane Debris Segmentation Using Fine-Tuned Foundational Vision Models
     year: '2025'
   8rZyuc8AAAAJ:HDshCWvjkbEC:
-    citations: 41
+    citations: 43
     title: "Artificial intelligence uncertainty quantification in radiotherapy applications\u2212 A scoping review"
     year: '2024'
   8rZyuc8AAAAJ:HoB7MX3m0LUC:
@@ -138,7 +138,7 @@ papers:
     title: When and why test-time augmentation works
     year: '2020'
   8rZyuc8AAAAJ:MXK_kJrjxJIC:
-    citations: 3256
+    citations: 3269
     title: 'Voxelmorph: a learning framework for deformable medical image registration'
     year: '2019'
   8rZyuc8AAAAJ:NaGl4SEjCO4C:
@@ -166,7 +166,7 @@ papers:
     title: 'Giq: Benchmarking 3d geometric reasoning of vision foundation models with simulated and real polyhedra'
     year: '2026'
   8rZyuc8AAAAJ:RHpTSmoSYBkC:
-    citations: 32
+    citations: 36
     title: 'Fairness and bias mitigation in computer vision: A survey'
     year: '2024'
   8rZyuc8AAAAJ:RYcK_YlVTxYC:
@@ -182,11 +182,11 @@ papers:
     title: 'Alpine: Flexible, User-Friendly, and Distributed PyTorch Library for Implicit Neural Representation Development'
     year: Unknown Year
   8rZyuc8AAAAJ:TFP_iSt0sucC:
-    citations: 3
+    citations: 4
     title: 'Gelda: A generative language annotation framework to reveal visual biases in image generators'
     year: '2024'
   8rZyuc8AAAAJ:TQgYirikUcIC:
-    citations: 49
+    citations: 50
     title: 'Elasticdiffusion: Training-free arbitrary size image generation through global-local content separation'
     year: '2024'
   8rZyuc8AAAAJ:Tyk-4Ss8FVUC:
@@ -226,11 +226,11 @@ papers:
     title: Generation of synthetic image data with varied attributes
     year: '2023'
   8rZyuc8AAAAJ:Zph67rFs4hoC:
-    citations: 316
+    citations: 318
     title: Better aggregation in test-time augmentation
     year: '2021'
   8rZyuc8AAAAJ:_FxGoFyzp5QC:
-    citations: 917
+    citations: 919
     title: Detecting pulse from head motions in video
     year: '2013'
   8rZyuc8AAAAJ:_Qo2XoVZTnwC:
@@ -302,7 +302,7 @@ papers:
     title: 'F? d: On understanding the role of deep feature spaces on face generation evaluation'
     year: '2024'
   8rZyuc8AAAAJ:hFOr9nPyWt4C:
-    citations: 7
+    citations: 8
     title: 'ISLAND: Interpolating Land Surface Temperature using land cover'
     year: '2024'
   8rZyuc8AAAAJ:hMod-77fHWUC:
@@ -318,7 +318,7 @@ papers:
     title: Learning transferable features for implicit neural representations
     year: '2025'
   8rZyuc8AAAAJ:kNdYIx-mwKoC:
-    citations: 1081
+    citations: 1083
     title: Unsupervised learning of probabilistic diffeomorphic registration for images and surfaces
     year: '2019'
   8rZyuc8AAAAJ:k_IJM867U9cC:
@@ -376,7 +376,7 @@ papers:
   8rZyuc8AAAAJ:u_35RYKgDlwC:
     citations: 0
     title: 'TranSplat: Instant Object Relighting in Gaussian Splatting via Spherical Harmonic Radiance Transfer'
-    year: '2025'
+    year: '2026'
   8rZyuc8AAAAJ:ufrVoPGSRksC:
     citations: 16
     title: 'Video diff: Highlighting differences between similar actions in videos'
